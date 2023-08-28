@@ -5,4 +5,5 @@ Create 3 dashboards (3 separate tabs under a single dashboard) using Cognos as f
 - One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Current Technology Usage.
 - One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Future Technology Trend.
 - One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Demographics.
+  
 The Results are in pdf form (Because the trial period had ended).
